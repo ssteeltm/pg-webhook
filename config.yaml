@@ -1,0 +1,7 @@
+DSN: postgresql://user:pass@ip:5432/schema
+channels:
+  - channel1
+  - channel2
+webhooks: 
+  channel1: https://webhook url
+  channel2: https://webhook url
